@@ -39,6 +39,13 @@
   <img src="https://cdn.simpleicons.org/openrouter" width="45" height="45" alt="OpenRouter" />
 </p>
 
+<p align="left">
+  <b>OpenAI</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Claude</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>OpenCode</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>OpenRouter</b>
+</p>
+
 ### Tools & Platforms
 
 <p align="left">
