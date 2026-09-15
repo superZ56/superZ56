@@ -57,6 +57,9 @@
   <img src="https://skillicons.dev/icons?i=postman" width="30" />
 </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SuperZ56&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperZ56&layout=compact&theme=dark&hide_border=true" height="165" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=superZ56&show_icons=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superZ56&layout=compact&hide_border=true&theme=transparent" height="150" />
+</p>
