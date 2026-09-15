@@ -30,17 +30,6 @@
   <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,mysql,sqlite" />
 </p>
 
-<h3>AI & LLM Tools</h3>
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="OpenAI" />
-  <img src="https://cdn.simpleicons.org/claude" width="45" height="45" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/opencode" width="45" height="45" alt="OpenCode" />
-  <img src="https://cdn.simpleicons.org/openrouter" width="45" height="45" alt="OpenRouter" />
-</p>
-
-
-
 ### Tools & Platforms
 
 <p align="left">
