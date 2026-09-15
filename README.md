@@ -57,9 +57,10 @@
   <img src="https://skillicons.dev/icons?i=postman" width="30" />
 </p>
 
+
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=superZ56&show_icons=true&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superZ56&layout=compact&hide_border=true&theme=transparent" height="150" />
+  <img src="./profile/stats.svg" height="150" />
 </p>
