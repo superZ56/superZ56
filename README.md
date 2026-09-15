@@ -61,6 +61,7 @@
 <p align="center">
   <img src="TON_IMAGE_URL" width="700" />
 </p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
