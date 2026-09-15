@@ -1,10 +1,3 @@
-<style>
-  :root {
-    --icon-width: 20px;
-  }
-</style>
-
-
 <h1 align="center">Hi, I'm Super Z 👋</h1>
 
 <p align="center">
@@ -16,50 +9,29 @@
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=c" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=java" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=js" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=ts" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=dart" width="var(--icon-width)"  />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,dart" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=css" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=react" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="var(--icon-width)"  />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=express" width="var(--icon-width)"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=postgres" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=mysql" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=sqlite" width="var(--icon-width)"  />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,mysql,sqlite" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="var(--icon-width)" />
-  <img src="https://skillicons.dev/icons?i=github" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=vscode" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=idea" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=linux" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=docker" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=notion" width="var(--icon-width)"  />
-  <img src="https://skillicons.dev/icons?i=postman" width="var(--icon-width)"  />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker,notion,postman" />
 </p>
