@@ -62,5 +62,5 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="./profile/stats.svg" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=superZ56&show_icons=true&theme=transparent" />
 </p>
