@@ -1,6 +1,6 @@
 <style>
   :root {
-    --icon-width: 50px;
+    --icon-width: 20px;
   }
 </style>
 
