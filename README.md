@@ -21,7 +21,7 @@
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" width="100" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" width="200" />
 </p>
 
 ### Databases
