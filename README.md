@@ -9,51 +9,51 @@
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="20" />
-  <img src="https://skillicons.dev/icons?i=c" width="20" />
-  <img src="https://skillicons.dev/icons?i=java" width="20" />
-  <img src="https://skillicons.dev/icons?i=js" width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" width="20" />
-  <img src="https://skillicons.dev/icons?i=dart" width="20" />
+  <img src="https://skillicons.dev/icons?i=python" width="30" />
+  <img src="https://skillicons.dev/icons?i=c" width="30" />
+  <img src="https://skillicons.dev/icons?i=java" width="30" />
+  <img src="https://skillicons.dev/icons?i=js" width="30" />
+  <img src="https://skillicons.dev/icons?i=ts" width="30" />
+  <img src="https://skillicons.dev/icons?i=dart" width="30" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="20" />
-  <img src="https://skillicons.dev/icons?i=css" width="20" />
-  <img src="https://skillicons.dev/icons?i=react" width="20" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="20" />
+  <img src="https://skillicons.dev/icons?i=html" width="30" />
+  <img src="https://skillicons.dev/icons?i=css" width="30" />
+  <img src="https://skillicons.dev/icons?i=react" width="30" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="30" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="30" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="20" />
-  <img src="https://skillicons.dev/icons?i=express" width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="30" />
+  <img src="https://skillicons.dev/icons?i=express" width="30" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma" width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="20" />
-  <img src="https://skillicons.dev/icons?i=sqlite" width="20" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="30" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="30" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="30" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="30" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="30" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="20" />
-  <img src="https://skillicons.dev/icons?i=github" width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="20" />
-  <img src="https://skillicons.dev/icons?i=idea" width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" width="20" />
-  <img src="https://skillicons.dev/icons?i=docker" width="20" />
-  <img src="https://skillicons.dev/icons?i=notion" width="20" />
-  <img src="https://skillicons.dev/icons?i=postman" width="20" />
+  <img src="https://skillicons.dev/icons?i=git" width="30" />
+  <img src="https://skillicons.dev/icons?i=github" width="30" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="30" />
+  <img src="https://skillicons.dev/icons?i=idea" width="30" />
+  <img src="https://skillicons.dev/icons?i=linux" width="30" />
+  <img src="https://skillicons.dev/icons?i=docker" width="30" />
+  <img src="https://skillicons.dev/icons?i=notion" width="30" />
+  <img src="https://skillicons.dev/icons?i=postman" width="30" />
 </p>
 
