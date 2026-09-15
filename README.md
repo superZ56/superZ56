@@ -9,30 +9,50 @@
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,dart" width="200" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=c" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" />
+  <img src="https://skillicons.dev/icons?i=dart" width="50" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" width="200" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" width="200" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,mysql,sqlite" width="200" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker,notion,postman" width="200" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+  <img src="https://skillicons.dev/icons?i=idea" width="50" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />
+  <img src="https://skillicons.dev/icons?i=notion" width="50" />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" />
 </p>
-
