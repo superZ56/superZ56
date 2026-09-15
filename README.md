@@ -61,8 +61,10 @@
 
 ## 📊 GitHub Stats
 
- <div align="center">
-  <img src="https://streakstats.demolab.com/user=superZ56&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" 
-    />
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=superZ56&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9"
+    alt="GitHub Streak"
+  />
 </div>
 
