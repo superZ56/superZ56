@@ -15,24 +15,24 @@
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" width="200" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" width="200" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,mysql,sqlite" width="200" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker,notion,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker,notion,postman" width="200" />
 </p>
 
