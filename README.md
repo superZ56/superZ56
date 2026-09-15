@@ -6,7 +6,7 @@
 
 ## ⚙️ Tech Stack
 
-### Languages
+<h4>Languages</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="30" />
@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=dart" width="30" />
 </p>
 
-### Frontend
+<h4>Frontend</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="30" />
@@ -27,14 +27,14 @@
   <img src="https://skillicons.dev/icons?i=tailwind" width="30" />
 </p>
 
-### Backend
+<h4>Backend</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" width="30" />
   <img src="https://skillicons.dev/icons?i=express" width="30" />
 </p>
 
-### Databases
+<h4>Databases</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=prisma" width="30" />
@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=sqlite" width="30" />
 </p>
 
-### Tools & Platforms
+<h4>Tools & Platforms</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="30" />
@@ -56,4 +56,5 @@
   <img src="https://skillicons.dev/icons?i=notion" width="30" />
   <img src="https://skillicons.dev/icons?i=postman" width="30" />
 </p>
+
 
