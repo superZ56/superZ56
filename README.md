@@ -9,7 +9,7 @@
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,dart" width="50" />
 </p>
 
 ### Frontend
